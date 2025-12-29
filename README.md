@@ -33,5 +33,5 @@ Built with **Python** and **python-telegram-bot v21.6**. Fully Heroku-deployable
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/soni30141241/Promotion-bot
+cd promation bot
