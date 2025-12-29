@@ -1,37 +1,15 @@
-# Telegram Link & Broadcast Bot
+<h2 align="center">
+    ──「 baba promotion bot」──
 
-A fully customizable Telegram bot to manage links and broadcast messages to your users.  
-Built with **Python** and **python-telegram-bot v21.6**. Fully Heroku-deployable.
+#baba bot
 
----
+    
+</h2>
+<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
+<a href="https://github.com/soni30141241/Promotion-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=soni30141241&repo=Promotion-bot&theme=chartreuse-dark"></a>
 
-## Features
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-- `/start` command with stylish welcome message and channel join button  
-- `/setlinks` command (Owner only) – manage links  
-- `/broadcast` command (Owner only) – broadcast message to all users  
-- Automatically saves users who start the bot (`users.json`)  
-- Links are saved in `links.json`  
-- Fully customizable using **environment variables**  
-
----
-
-## Files in Repository
-
-- `bot.py` – Main bot code  
-- `requirements.txt` – Dependencies  
-- `Procfile` – Heroku worker process  
-- `app.json` – Heroku app config  
-- `links.json` – Stores bot links  
-- `users.json` – Stores user IDs  
-- `README.md` – This file  
-
----
-
-## Setup & Deployment on Heroku
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/soni30141241/Promotion-bot
-cd promation bot
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/soni30141241/Promotion-bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
